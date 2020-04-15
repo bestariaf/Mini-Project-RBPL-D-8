@@ -1,0 +1,2 @@
+rootProject.name='TOEFL Learning App'
+include ':app'
